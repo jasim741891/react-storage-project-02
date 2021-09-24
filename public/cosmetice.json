@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alta",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "name": "Balta",
+        "price": 29
+    },
+    {
+        "id": 3,
+        "name": "Chalta",
+        "price": 25
+    },
+    {
+        "id": 4,
+        "name": "Jalta",
+        "price": 251
+    },
+    {
+        "id": 5,
+        "name": "Malta",
+        "price": 252
+    },
+    {
+        "id": 6,
+        "name": "Olta",
+        "price": 253
+    }
+]
